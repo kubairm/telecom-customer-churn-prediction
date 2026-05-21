@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore raw data if you do not want to upload dataset files
+# data/*.csv
+
+# Optional: ignore saved model files if they are too large
+# models/*.pkl
